@@ -12,8 +12,8 @@ Last Updated: March 25, 2025
 ## [Crystal.RPGTiles](https://github.com/Crystal2D/libraries/tree/main/Crystal.RPGTiles)
 Adds fast tiles and tilemap rendering
 
-Version: 2025.1f<br>
-Last Updated: March 25, 2025
+Version: 2025.2f<br>
+Last Updated: May 11, 2025
 
 ## [Crystal.SimpleAnimate](https://github.com/Crystal2D/libraries/tree/main/Crystal.SimpleAnimate)
 
