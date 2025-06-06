@@ -28,3 +28,10 @@ Adds basic audio implementations
 
 Version: 2025.2f<br>
 Last Updated: May 23, 2025
+
+## [Crystal.HTMLUI](https://github.com/Crystal2D/libraries/tree/main/Crystal.HTMLUI)
+
+Adds an easier way to add HTML based UI
+
+Version: 2025.1f<br>
+Last Updated: June 6, 2025
