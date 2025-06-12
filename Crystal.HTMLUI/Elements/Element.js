@@ -1,5 +1,6 @@
 HTMLUI.Element = class
 {
+    #active = true;
     #originX = 0;
     #originY = 0;
     #alpha = 1;
@@ -8,8 +9,13 @@ HTMLUI.Element = class
     #pos = Vector2.zero;
     #scale = Vector2.one;
     #mat = new Matrix3x3();
-    
+
     htmlElement = null;
+
+    get activeSelf ()
+    {
+        return this.#active;
+    }
 
     get horizontalOrigin ()
     {
@@ -114,6 +120,12 @@ HTMLUI.Element = class
         return new Bounds();
     }
 
+    SetActive (state)
+    {
+        this.#active = state;
+        this.htmlElement.style.opacity = state ? this.#alpha : 0;
+    }
+
     Recalc ()
     {
         this.#mat = Matrix3x3.TRS(
@@ -160,4 +172,9 @@ HTMLUI.Element = class
     Update () { }
 
     UpdateEnd () { }
+
+    Remove ()
+    {
+        this.htmlElement.remove();
+    }
 }
