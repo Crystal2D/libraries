@@ -38,12 +38,15 @@ Last Updated: July 13, 2025
 
 ## [Crystal.Physics](https://github.com/Crystal2D/libraries/tree/main/Crystal.Physics)
 
-> [!CAUTION]
-> EXTREMELY EXPERMENTAL
-> 
-> I don't know how to do physics
-> I don't even know how I got this far in this engine lmao
 
+# Experimental
+
+> [!CAUTION]
+> THESE ARE EXTREMELY EXPERMENTAL AND SHOULD NOT BE USED IN PROJECTS
+
+I don't know how to do physics<br>
+I don't even know how I got this far in this engine lmao<br>
+<br><br><br>
 P   H   Y   S   I   C   S
 
 Version: 2025.1a<br>
