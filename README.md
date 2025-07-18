@@ -36,8 +36,6 @@ Adds an easier way to add HTML based UI
 Version: 2025.2f<br>
 Last Updated: July 13, 2025
 
-## [Crystal.Physics](https://github.com/Crystal2D/libraries/tree/main/Crystal.Physics)
-
 
 
 # Experimental
