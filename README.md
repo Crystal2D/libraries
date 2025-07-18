@@ -26,8 +26,8 @@ Last Updated: July 13, 2025
 
 Adds basic audio implementations
 
-Version: 2025.3f<br>
-Last Updated: July 13, 2025
+Version: 2025.3.1f<br>
+Last Updated: July 18, 2025
 
 ## [Crystal.HTMLUI](https://github.com/Crystal2D/libraries/tree/main/Crystal.HTMLUI)
 
@@ -35,3 +35,16 @@ Adds an easier way to add HTML based UI
 
 Version: 2025.2f<br>
 Last Updated: July 13, 2025
+
+## [Crystal.Physics](https://github.com/Crystal2D/libraries/tree/main/Crystal.Physics)
+
+> [!CAUTION]
+> EXTREMELY EXPERMENTAL
+> 
+> I don't know how to do physics
+> I don't even know how I got this far in this engine lmao
+
+P   H   Y   S   I   C   S
+
+Version: 2025.1a<br>
+Last Updated: July 18, 2025

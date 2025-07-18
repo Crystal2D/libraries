@@ -1,0 +1,28 @@
+{
+    "name" : "Crystal.Physics",
+    "id": "com.crystal.physics",
+    "description" : "extremely experimental. idk how to physics lol",
+    "version": "2025.1a",
+    "scripts" : [
+        "Physics",
+        "SimulationMode",
+        "Rigidbody",
+        "Collider"
+    ],
+    "classes" : [
+        {
+            "name": "Rigidbody",
+            "type": 0
+        },
+        {
+            "name": "Collider",
+            "type": 0,
+            "args": [
+                {
+                    "type": "Vector2",
+                    "name": "size"
+                }
+            ]
+        }
+    ]
+} 
